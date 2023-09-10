@@ -1,2 +1,2 @@
-# Application-gestion-du-budget-personnel
-Cette application simplifie la vie et la façon dont vous économiser, elle permet d'accéder à une vision globale des revenus et des dépenses tout en encourageant les utilisateurs à maintenir leurs objectifs d'économies.
+# Application-personal-budget-management
+This application simplifies life and saving, by giving access to a global view of income and expenditure, while encouraging users to maintain their savings targets.
